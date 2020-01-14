@@ -28,6 +28,11 @@ Official website : https://expressjs.com/
 6. Database integration
 
 
+## Template engines
+1. EJS - https://ejs.co/ , https://www.npmjs.com/package/ejs
+2. HBS - https://handlebarsjs.com/ , https://www.npmjs.com/package/hbs
+
+
 ## Mongo DB
 Official website : https://www.mongodb.com/
 
